@@ -1,0 +1,15 @@
+# Ignorar pastas e artefatos de build/VS (nível de solução)
+.vs/
+**/bin/
+**/obj/
+
+# Arquivos de usuário do VS
+*.user
+*.rsuser
+*.suo
+*.userosscache
+
+# Temporários / logs
+*.tmp
+*.bak
+*.log
