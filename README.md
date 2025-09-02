@@ -10,7 +10,9 @@ Aplicativo de Console em C# que:
 ## 👥 Integrantes
 - RM98650 - João Pedro Cruz  
 - RM551169 - Tiago Paulino  
-- RM98668 - Victor Eid  
+- RM98668 - Victor Eid
+- RM99666 - Enzo Luiz Goulart
+- RM99757 - Lucas Yuji 
 
 ---
 
